@@ -27,7 +27,7 @@
 ### Instalar o dot env
 - npm i dotenv
 
-### Instaler lib zood
+### Instaler lib zod
 - npm i zod
 
 
