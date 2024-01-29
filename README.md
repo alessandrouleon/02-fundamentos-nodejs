@@ -55,3 +55,7 @@
 - [x] O usuário só pode visualizar transações o qual ele criou;
 
 
+# CRIAR BUILD
+## Instaslar  lib
+- npm i tsup -D
+

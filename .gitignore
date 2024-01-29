@@ -1,3 +1,12 @@
-node_modules
-src/database/app.db
-.env
+# Dependencies
+  node_modules
+
+# Build
+  build
+
+# Database
+  src/database/*.db
+
+# Evariment
+  .env
+  .emv.test
