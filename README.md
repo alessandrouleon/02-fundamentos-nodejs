@@ -58,4 +58,7 @@
 # CRIAR BUILD
 ## Instaslar  lib
 - npm i tsup -D
+#### Instalar o postgres para rodar em produção
+npm i pg
+
 
