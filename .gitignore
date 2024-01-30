@@ -1,13 +1,13 @@
 # Dependencies
-  node_modules
+node_modules
 
 # Build
-  build
+build
 
 # Database
-  src/database/*.db
+src/database/*.db
 
 # Evariment
-  .env
-  .emv.test
+.env
+.env.test
   
