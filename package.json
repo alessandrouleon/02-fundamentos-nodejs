@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": ">=18.18.0 <19.0.0"
+    "node": ">=16"
   },
   "scripts": {
-    "dev": "tsc --watch",
+    "dev": "tsx watch src/server.ts",
     "knex": "node --no-warnings --loader tsx ./node_modules/.bin/knex",
     "lint": "eslint src --ext .ts --fix",
     "build": "tsup src --out-dir build",
