@@ -1,13 +1,13 @@
 # Dependencies
 node_modules
 
-# Build
-build
-
 # Database
-src/database/*.db
+src/datanase/*.db
 
-# Evariment
+# Environment
 .env
 .env.test
+
+# Build
+build
   
